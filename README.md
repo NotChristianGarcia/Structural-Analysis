@@ -1,4 +1,4 @@
-### Structural Analysis
+## Structural Analysis
 **Date:** Spring 2018  
 **Description:**  
 This is the final project for Structural Analysis.  
